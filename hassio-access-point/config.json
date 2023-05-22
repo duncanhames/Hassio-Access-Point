@@ -1,10 +1,10 @@
 {
-  "name": "Hass.io Access Point",
+  "name": "Hass.io AP Orange Pi 4 LTS",
   "version": "0.4.6",
   "slug": "hassio-access-point",
   "description": "Create a WiFi access point to directly connect devices to Home Assistant",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
-  "url": "https://github.com/mattlongman/hassio-access-point",
+  "url": "https://github.com/duncanhames/hassio-access-point",
   "startup": "system",
   "boot": "auto",
   "host_network": true,
