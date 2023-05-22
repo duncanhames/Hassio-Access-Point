@@ -1,4 +1,4 @@
-# Hass.io Access Point
+# Hass.io Access Point (Orange Pi 4 LTS)
 Use your hass.io host as a WiFi access point - perfect for off-grid and security focused installations.
 
 ## Main features
@@ -8,11 +8,10 @@ Use your hass.io host as a WiFi access point - perfect for off-grid and security
 - MAC address filtering (allow/deny)
 - Internet routing for clients (Optional)
 
-
 ## Installation
 
 Please add
-`https://github.com/mattlongman/hassio-access-point` to your hass.io addon repositories list. If you're not sure how, see [instructions](https://www.home-assistant.io/hassio/installing_third_party_addons/) on the Home Assistant website.
+`https://github.com/duncanhames/hassio-access-point` to your hass.io addon repositories list. If you're not sure how, see [instructions](https://www.home-assistant.io/hassio/installing_third_party_addons/) on the Home Assistant website.
 
 ## Config
 
