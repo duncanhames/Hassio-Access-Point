@@ -1,4 +1,4 @@
-# Hass.io Access Point (Orange Pi 4 LTS)
+# Hass.io AP (Orange Pi 4 LTS)
 Use your hass.io host as a WiFi access point - perfect for off-grid and security focused installations.
 
 ## Main features
